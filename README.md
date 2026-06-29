@@ -70,6 +70,5 @@ This ecosystem was engineered by a team of B.Tech Computer Science students:
 * **[Debjeet Mazumder](https://github.com/KingDev4522)** — Founder, Solo Architect & Lead Developer
 * **[Debadrita Baksi](https://github.com/debadritabaksi)** — UI/UX & Web Interface Co-Developer
 * **[Mehul Kumar Jaiswal](https://github.com/mehul18ji)** — AI, App, Backend & Embedded Systems Co-Developer
-* **[Mohit Pandey](https://github.com/mohitpandey827680165-lgtm)** — Backend Web Co-Developer
 
 *Built with passion, late-night debugging, and a shared vision.*
