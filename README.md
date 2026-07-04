@@ -67,8 +67,8 @@ Maargdarshan is a decentralized assistive mobility ecosystem designed for visual
 ## 👨‍💻 The Team
 This ecosystem was engineered by a team of B.Tech Computer Science students:
 
-* **[Debjeet Mazumder](https://github.com/KingDev4522)** — Founder, Solo Architect & Lead Developer
-* **[Debadrita Baksi](https://github.com/debadritabaksi)** — UI/UX & Web Interface Co-Developer
+* **[Debjeet Mazumder](https://github.com/KingDev4522)** — Founder, Solo Architect & Lead Developer of Web,App & Embedded Systems
+* **[Debadrita Baksi](https://github.com/debadritabaksi)** — Web Architect & UI/UX  Co-Developer
 * **[Mehul Kumar Jaiswal](https://github.com/mehul18ji)** — AI, App, Backend & Embedded Systems Co-Developer
 
 *Built with passion, late-night debugging, and a shared vision.*
