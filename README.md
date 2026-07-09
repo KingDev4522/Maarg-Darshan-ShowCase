@@ -12,7 +12,7 @@
 ## 🚀 Live Prototypes (Beta)
 
 🌐 **Live Caretaker Dashboard:** [Experience the Web App here](https://maarg-darshan.vercel.app/)  
-📱 **Android App (Beta APK):** [Download from Google Drive](https://drive.google.com/file/d/1kAw5_C6xUDN8_BLvVMUVQd9Q_YRHFo8i/view)  
+📱 **Android App (Beta APK):** [Download from Google Drive](https://drive.google.com/file/d/1OHvzxvoQ2N6sPeZ2uwdPeYnrd8-op_mm/view?usp=sharing)  
 
 ### 💡 Quick Test Drive
 Use our pre-loaded credentials to bypass registration and test the AI instantly *(Username works as email)*:
